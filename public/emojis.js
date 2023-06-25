@@ -53,7 +53,7 @@ export const emojis = [
       emoji: "😱",
       name: "Screaming in Fear",
       meaning:
-      "Horror-stricken face with two hands, screaming. Is scared stiff, feeling nothing but fear and panic. The creepy emoji can also be used ironically or as a symbol for Halloween."
+      "Horror-stricken face with two hands, screaming. Is scared stiff, feeling nothing but fear and panic. The creepy emoji can also be used ironically or as a emoji for Halloween."
     },
     {
       id: 9,
@@ -61,6 +61,68 @@ export const emojis = [
       name: "Sleeping Face",
       meaning:
       "Good night and sweet dreams! In comics or cartoons, zZz above the head stands for sleeping characters. The emoji is tired, wants to go to bed or is just about to fall asleep from boredom."
+    },
+    {
+      name: "Sunglasses",
+      emoji: "😎",
+      "keywords":
+        "smiling face with sunglasses silly smiley emojione glasses boys night boys night"
+    },
+    {
+      name: "Hugging",
+      emoji: "🤗",
+      "keywords": "hugging face smiley hug thank you"
+    },
+    {
+      name: "Smirk",
+      emoji: "😏",
+      "keywords": "smirking face silly smiley sexy sarcastic sarcastic"
+    },
+    {
+      name: "No Mouth",
+      emoji: "😶",
+      "keywords": "face without mouth mad smiley neutral emotion emotion"
+    },
+    {
+      name: "Neutral Face",
+      emoji: "😐",
+      "keywords": "neutral face mad smiley shrug neutral emotion emotion"
+    },
+    {
+      name: "Expressionless",
+      emoji: "😑",
+      "keywords": "expressionless face mad smiley neutral emotion emotion"
+    },
+    {
+      name: "Unamused",
+      emoji: "😒",
+      "keywords": "unamused face sad mad smiley tired emotion emotion"
+    },
+    {
+      name: "Rolling Eyes",
+      emoji: "🙄",
+      keywords:
+        "face with rolling eyes mad smiley rolling eyes emotion emotion sarcastic sarcastic"
+    },
+    {
+      name: "Thinking",
+      emoji: "🤔",
+      keywords: "thinking face smiley thinking boys night boys night"
+    },
+    {
+      name: "Blushed",
+      emoji: "😳",
+    keywords: "flushed face smiley emotion emotion omg omg"
+    },
+    {
+      name: "Disappointed",
+      emoji: "😞",
+      "keywords": "disappointed face sad smiley tired emotion emotion"
+    },
+    {
+      name: "Worried",
+      emoji: "😟",
+      "keywords": "worried face sad smiley emotion emotion"
     },
   ];
   
